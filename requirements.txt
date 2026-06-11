@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+streamlit
+pymupdf
+chromadb
+google-genai
+python-dotenv
+networkx
+pandas
+pydantic
+pydantic-settings
+gtts
+python-docx
+python-pptx
+neo4j
